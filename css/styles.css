@@ -14,7 +14,8 @@ h1{
     
 }
 .container-fluid{
-    padding: 3% 15% ;
+    padding: 3% 15%  7%;
+
 }
 .navbar{
     padding: 0 0 4.5rem;
@@ -39,6 +40,7 @@ h1{
     width: 60%;
     transform: rotate(25deg);
     position: absolute;
+    right: 30%;
 }
 .img-container{
     position: relative;
