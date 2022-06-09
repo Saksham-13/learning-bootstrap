@@ -4,6 +4,7 @@ body{
 #title{
     background-color: #ff4c68;
     color: white;
+    
 }
 h1{ 
     font-family: 'Montserrat', sans-serif;
@@ -37,8 +38,12 @@ h1{
 .title-image{
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
 }
-.feature{
+.img-container{
+    position: relative;
+}
+h3{
     font-family: "Montserrat";
     font-weight: 700;
     font-size: 1.5rem;
@@ -51,6 +56,9 @@ h1{
 #features{
     padding: 7% 15%;
     text-align: center;
+    background-color: white;
+    position: relative;
+    z-index: 1;
 }
 .icon{
     color: #Ef8172;
@@ -92,4 +100,14 @@ h2{
 }
 .carousel-item{
     padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+p{
+    color: #8f8f8f;
+}
+.pricing-column{
+    padding: 3% 2%;
 }
