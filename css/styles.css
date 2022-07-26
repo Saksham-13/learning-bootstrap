@@ -125,3 +125,15 @@ p{
 .pricing-column{
     padding: 3% 2%;
 }
+/* cta section */
+#cta{
+    background-color: #ff4c68;
+    color: white;
+    text-align: center;
+    padding: 7% 15%;
+    
+}
+.cta-heading{
+    line-height: 1.5;
+    font-size: 3.5rem;
+}
