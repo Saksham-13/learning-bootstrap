@@ -1,0 +1,29 @@
+
+body{
+    background-color: powderblue;
+}
+
+hr{
+
+            
+    border-style:none ;
+    border-top-style:dotted ;
+    border-color: grey;
+    border-width:5px ;
+    height: 0px;
+    width:50% ;
+}
+
+
+
+img{
+    height: 175px;
+}
+h3{
+
+    color: slateblue;
+}
+
+.mefoto:hover{
+    border-radius: 100%;
+}
